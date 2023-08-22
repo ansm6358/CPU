@@ -1,0 +1,9 @@
+X DW ?
+Y DW ?
+LDV 5
+STA X
+LDV 7
+STA Y
+LDA X
+ADD Y
+STA Y
